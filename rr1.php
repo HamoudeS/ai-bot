@@ -3,7 +3,7 @@
 # من مطور @BBI4BB
 #قناة المطور @AMRAKL
 ob_start();
-$API_KEY = '5666775059:AAHuZ2zZ_LPsFgiWbuHRCn4_oCzlRCjZkBg'; #التوكن 
+$API_KEY = '5666775059:AAEBVbFQRngbtNlXIM-qHVfpCD_Dye0Jo_g'; #التوكن 
 define('API_KEY',$API_KEY);
 
 function bot($method,$datas=[]){
