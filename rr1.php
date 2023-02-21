@@ -3,7 +3,7 @@
 # من مطور @BBI4BB
 #قناة المطور @AMRAKL
 ob_start();
-$API_KEY = '5864360938:AAFpMromDFgkPgmGltMUqCyjdvod7zh6QbU'; #التوكن 
+$API_KEY = '5666775059:AAGSp1wcN5m-tIqCl1TIX9le2yREKFTDu0w'; #التوكن 
 define('API_KEY',$API_KEY);
 
 function bot($method,$datas=[]){
@@ -20,7 +20,7 @@ return json_decode($res);
 }
 }
 $amrakl = "مايك"; #اسم البوت
-$AMRAKLkey = "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"; #key
+$AMRAKLkey = "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"; #key
 $admin = "5220692144"; #ايدي الادمن
 $sudo = array("5220692144","5220692144","5220692144"); #ايدهات
 
